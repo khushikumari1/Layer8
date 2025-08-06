@@ -87,7 +87,7 @@ docker run -d -p 3000:8080 --gpus=all \
   -v open-webui:/app/backend/data \
   --name open-webui \
   --restart always \
-  vickydev810/layer8:latest
+  khushikumari1/layer8:latest
 ```
 
 Once running, access the Web UI at http://localhost:3000
