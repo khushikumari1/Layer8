@@ -75,7 +75,7 @@ The fastest way to get started with Layer8 is using our Docker image:
 
 ```bash
 # Pull the image
-docker pull vickydev810/layer8:latest
+docker pull khushikumari1/layer8:latest
 
 # Create required volumes for data persistence
 docker volume create ollama
